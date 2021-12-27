@@ -23,8 +23,6 @@ Um dieses Repository in MakeCode zu bearbeiten.
 Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
 Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/timkapunkt/vorlage-proxi-funktionen/raw/master/.github/makecode/blocks.png)
-
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/microbit
