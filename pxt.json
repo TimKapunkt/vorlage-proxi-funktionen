@@ -1,6 +1,5 @@
 {
     "name": "Vorlage Proxi Funktionen",
-    "version": "0.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
